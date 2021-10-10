@@ -25,6 +25,5 @@ For a more detailed description you may refer to this [repository](https://githu
 ## Contributors
 
 * **Fasihuddin**  - *Dataset - Obama tweets*
-* [**Abdul Sattar**](https://github.com/AsharMohammed) - *Dataset - HipHop Lyrics*
+* [**Talha Islam**](https://github.com/TalhaIslam) - *Dataset - HipHop Lyrics*
 * [**Muhammad Hassaan**](https://github.com/hassan25sohail) - *Dataset - Donald Trump Tweets*
-* [**Talha Islam**](https://github.com/TalhaIslam) - *Dataset - Russian Troll Tweets*
