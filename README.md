@@ -1,5 +1,5 @@
-# Context and sentiment based text classification using FastText
-Group project for ITEC876 Applications of data science
+# Multi-Label (Context and sentiment based) text classification using FastText
+Group project for COMP8240 Applications of data science
 
 ## Getting Started
 
