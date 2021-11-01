@@ -1,4 +1,4 @@
-# Multi-Label (Context and sentiment based) text classification
+# Multi-Label text classification
 Group project for COMP8240 Applications of data science
 
 ## Getting Started
