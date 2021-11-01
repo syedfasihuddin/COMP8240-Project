@@ -20,6 +20,6 @@ For a more detailed description you may refer to this [Page](https://towardsdata
 
 ## Contributors
 
-* **Fasihuddin**  - *Dataset - Obama tweets*
-* [**Talha Islam**](https://github.com/TalhaIslam) - *Dataset - HipHop Lyrics*
-* [**Muhammad Hassaan**](https://github.com/hassan25sohail) - *Dataset - Donald Trump Tweets*
+* **Fasihuddin** 
+* [**Talha Islam**](https://github.com/TalhaIslam)
+* [**Muhammad Hassaan**](https://github.com/hassan25sohail)
