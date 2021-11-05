@@ -17,6 +17,27 @@ In this project, using a Kaggle problem as example, we explore different aspects
 
 For a more detailed description you may refer to this [Page](https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff)
 
+### Techniques used for Solving a Multi-Label classification problem
+Basically, there are three methods to solve a multi-label classification problem, namely:
+
+* Problem Transformation
+* Adapted Algorithm
+
+#### Problem Transformation
+In this method, we will try to transform our multi-label problem into single-label problem.
+
+This method can be carried out in three different ways as:
+
+* Binary Relevance
+* Classifier Chains
+* Label Powerset
+
+#### Adapted Algorithm
+Here we use a multi-label lazy learning approach named ML-KNN which is derived from the
+traditional K-nearest neighbor (KNN) algorithm.The skmultilearn.adapt module implements
+algorithm adaptation approaches to multi-label classification, including but not limited to
+ML-KNN.
+
 
 ## Contributors
 
